@@ -1,0 +1,3 @@
+# tweetdecker
+
+macOS向けのTweetDeckアプリの提供が終わるらしいので, 単にWebViewでTweetDeck開くだけのやつを用意した.
